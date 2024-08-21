@@ -1,3 +1,3 @@
 # MultipartFormData
 
-MutlipartFormData extracted from Alamofire.
+MutlipartFormData extracted from [Alamofire](https://github.com/Alamofire/Alamofire/blob/master/Source/Features/MultipartFormData.swift).
